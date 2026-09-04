@@ -1,0 +1,27 @@
+# Arquivos temporários
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos do NotebookLM
+*.nb
+*.nblm
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Backup
+*.backup
+*.bak
+
+# PDFs (não versionar materiais externos)
+*.pdf
